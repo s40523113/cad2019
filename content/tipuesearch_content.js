@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': 'http://mde.tw/cad2019/content/index.html \xa0 \n', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': 'http://mde.tw/cad2019/content/index.html \xa0 \n', 'tags': '', 'url': 'About.html'}, {'title': 'HW', 'text': '\n 編譯solvespace: https://www.youtube.com/watch?v=TBqRfUFudxw&t=2s \n \n', 'tags': '', 'url': 'HW.html'}]};
