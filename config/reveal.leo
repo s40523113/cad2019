@@ -319,11 +319,16 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200105235332.1"># 課程內容
 
-*利用可攜程式系統與網際內容管理系統
-*建立github倉儲系統與個人網頁
-*Solvespace 編譯、零組件繪圖與應用
-*Nx12繪圖應用
-*零組件轉入 V-rep 與 Webots 
+1.利用可攜程式系統與網際內容管理系統
+
+2.建立github倉儲系統與個人網頁
+
+3.Solvespace 編譯、零組件繪圖與應用
+
+4.Nx12繪圖應用
+
+
+5.零組件轉入 V-rep 與 Webots 
 </t>
 <t tx="leo.20200105235436.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
