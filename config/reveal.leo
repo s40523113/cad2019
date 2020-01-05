@@ -33,6 +33,9 @@
 <v t="leo.20200106000331.1"><vh>nx12心得</vh>
 <v t="leo.20200106000333.1"><vh>nx12心得</vh></v>
 </v>
+<v t="leo.20200106001417.1"><vh>繪製越野車</vh>
+<v t="leo.20200106001420.1"><vh>繪製越野車</vh></v>
+</v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh>
 <v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
@@ -362,6 +365,21 @@ vertical: body pane on the botton</t>
 
 
 * 心得:藉由這次的範例來操作nx12，雖然nx12的工作介面以及功能用法，與inventor、soildworks等常用的繪圖軟體大有不同，但隨著時代演變程式種類越來越多，身為學生的我們應好好把握這次的 機會來學習各個軟體
+
+</t>
+<t tx="leo.20200106001417.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200106001420.1">## 繪製簡易越野車
+
+* 利用solvespacec繪製越野車
+
 
 </t>
 </tnodes>
