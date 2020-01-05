@@ -320,7 +320,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200105235332.1"># 課程內容
+<t tx="leo.20200105235332.1">## 課程內容
 
 * 利用可攜程式系統與網際內容管理系統
 
@@ -342,7 +342,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200105235440.1">###Solvespace 編譯
+<t tx="leo.20200105235440.1">## solvespace 編譯
 
 &lt;iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/nIbbkxiJwS0" width="560"&gt;&lt;/iframe&gt;
 
@@ -356,11 +356,10 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200106000333.1">###nx12心得與介紹
+<t tx="leo.20200106000333.1">## nx12心得
 
 &lt;iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/PWkKuOJ0tCI" width="560"&gt;&lt;/iframe&gt;
 
-* nx12介紹:可將多領域模擬技術融合到結構、動作、熱力、流體、多重物理與最佳化解決方案，且可以快速把模型建立範本，其中範本包括了模擬、製圖、驗證與其他工程最佳實務。
 
 * 心得:藉由這次的範例來操作nx12，雖然nx12的工作介面以及功能用法，與inventor、soildworks等常用的繪圖軟體大有不同，但隨著時代演變程式種類越來越多，身為學生的我們應好好把握這次的 機會來學習各個軟體
 
