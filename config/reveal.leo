@@ -24,13 +24,13 @@
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20200105235329.1"><vh>課程內容</vh>
+<v t="leo.20200105235332.1"><vh>課程內容</vh></v>
+</v>
+<v t="leo.20200105235436.1"><vh>solvespace 編譯</vh>
+<v t="leo.20200105235440.1"><vh>solvespace 編譯</vh></v>
+</v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180902120523.14"><vh>課程內容</vh>
-<v t="leo.20180902120523.15"><vh>課程內容</vh></v>
-</v>
-<v t="leo.20200105234716.1"><vh>solvespace 編譯</vh>
-<v t="leo.20200105234721.1"><vh>solvespace 編譯</vh></v>
-</v>
 <v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh>
 <v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
 </v>
@@ -83,25 +83,6 @@ Created by [s40523113](https://s40523113.github.io/cad2019/content/index.html)
 @others
 &lt;/section&gt;
 
-</t>
-<t tx="leo.20180902120523.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180902120523.15"># 課程內容
-
-*利用可攜程式系統與網際內容管理系統
-*建立github倉儲系統與個人網頁
-*Solvespace 編譯、零組件繪圖與應用
-*Nx12繪圖應用
-*零組件轉入 V-rep 與 Webots 
 </t>
 <t tx="leo.20180902120523.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -327,21 +308,36 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="leo.20200105234716.1">&lt;section data-markdown&gt;
+<t tx="leo.20200105235329.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
+						
+</t>
+<t tx="leo.20200105235332.1"># 課程內容
+
+*利用可攜程式系統與網際內容管理系統
+*建立github倉儲系統與個人網頁
+*Solvespace 編譯、零組件繪圖與應用
+*Nx12繪圖應用
+*零組件轉入 V-rep 與 Webots 
+</t>
+<t tx="leo.20200105235436.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
 
 						
 </t>
-<t tx="leo.20200105234721.1"># Solvespace 編譯
+<t tx="leo.20200105235440.1"># Solvespace 編譯
 
 &lt;iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/nIbbkxiJwS0" width="560"&gt;&lt;/iframe&gt;
 
-&lt;img alt="" height="316" src="/images/SciTE_ptvpDakb9a.png" width="790"/&gt;</t>
+</t>
 </tnodes>
 </leo_file>
