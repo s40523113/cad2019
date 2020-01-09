@@ -51,6 +51,9 @@
 <v t="leo.20200109163627.1"><vh>w9</vh>
 <v t="leo.20200109163629.1"><vh>期中</vh></v>
 </v>
+<v t="leo.20200109221745.1"><vh>w10</vh>
+<v t="leo.20200109221746.1"><vh>ssh</vh></v>
+</v>
 <v t="leo.20200109163803.1"><vh>w10</vh>
 <v t="leo.20200109163805.1"><vh>已在同組協同倉儲中fork</vh></v>
 </v>
@@ -537,5 +540,19 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200109220729.1">### 自評成績:60分
 理由:對於為何期末自評成績給60分的原因是，每周都會定期更新上課進度在網頁上，並至少commit一次在github上，同時也懂得如何利用ssh連線並提交，另外在每周進度中都會加帶有字幕之影片，個人網誌以及剪報也有在製作中，還有solvespaceu以及nx12也懂得去應用，都有呈現在網頁中。</t>
+<t tx="leo.20200109221745.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109221746.1">### 期末報告:w10 利用ssh與github連線
+
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/HiG-xanPav4"&gt;&lt;/iframe&gt;
+
+</t>
 </tnodes>
 </leo_file>
