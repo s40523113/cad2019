@@ -69,6 +69,9 @@
 <v t="leo.20200109212130.1"><vh>w16</vh>
 <v t="leo.20200109212132.1"><vh>利用solvespace繪製越野車，並轉入vrep與weboot中</vh></v>
 </v>
+<v t="leo.20200109212601.1"><vh>w17</vh>
+<v t="leo.20200109212605.1"><vh>newHeadline</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -494,5 +497,15 @@ vertical: body pane on the botton</t>
 
 &lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/HIRC8rqvJt0"&gt;&lt;/iframe&gt;&lt;/p&gt;
 </t>
+<t tx="leo.20200109212601.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109212605.1"></t>
 </tnodes>
 </leo_file>
