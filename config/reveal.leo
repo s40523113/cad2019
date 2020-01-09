@@ -66,8 +66,8 @@
 <v t="leo.20200109170851.1"><vh>w16</vh>
 <v t="leo.20200109170853.1"><vh>利用solvespace繪製越野車，並轉入vrep與weboot中</vh></v>
 </v>
-<v t="leo.20200106001417.1"><vh>繪製越野車</vh>
-<v t="leo.20200106001420.1"><vh>繪製越野車</vh></v>
+<v t="leo.20200109212130.1"><vh>w16</vh>
+<v t="leo.20200109212132.1"><vh>利用solvespace繪製越野車，並轉入vrep與weboot中</vh></v>
 </v>
 </v>
 </v>
@@ -330,21 +330,6 @@ vertical: body pane on the botton</t>
 
 
 </t>
-<t tx="leo.20200106001417.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20200106001420.1">## 繪製簡易越野車
-
-* 利用solvespacec繪製越野車
-
-
-</t>
 <t tx="leo.20200109161440.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -491,9 +476,23 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200109170853.1">### 期末報告:w16 利用solvespace繪製越野車，並轉入vrep與weboot中
+<t tx="leo.20200109170853.1">### 期末報告:w16 利用solvespace繪製越野車，並轉入vrep
 
-&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/Yngrx-hPtf8"&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/Zfbe15uwnQQ"&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+</t>
+<t tx="leo.20200109212130.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109212132.1">### 期末報告:w16 利用solvespace繪製越野車，並轉入vrep
+
+&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/HIRC8rqvJt0"&gt;&lt;/iframe&gt;&lt;/p&gt;
 </t>
 </tnodes>
 </leo_file>
