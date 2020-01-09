@@ -27,22 +27,47 @@
 <v t="leo.20200105235329.1"><vh>課程內容</vh>
 <v t="leo.20200105235332.1"><vh>課程內容</vh></v>
 </v>
-<v t="leo.20200105235436.1"><vh>solvespace 編譯</vh>
+<v t="leo.20200105235436.1"><vh>w3</vh>
 <v t="leo.20200105235440.1"><vh>solvespace 編譯</vh></v>
 </v>
-<v t="leo.20200106000331.1"><vh>nx12心得</vh>
-<v t="leo.20200106000333.1"><vh>nx12心得</vh></v>
+<v t="leo.20200109161440.1"><vh>w5</vh>
+<v t="leo.20200109161441.1"><vh>介紹solvespace基本功能</vh></v>
+</v>
+<v t="leo.20200109161542.1"><vh>w6</vh>
+<v t="leo.20200109161544.1"><vh>利用solvespace來繪製簡單雙輪車</vh></v>
+</v>
+<v t="leo.20200109161721.1"><vh>w6</vh>
+<v t="leo.20200109161723.1"><vh>藉由V-rep 來控制模擬雙輪車</vh></v>
+</v>
+<v t="leo.20200109162816.1"><vh>w7</vh>
+<v t="leo.20200109162817.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20200109162819.1"><vh>w7</vh>
+<v t="leo.20200109162824.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20200109161830.1"><vh>w7</vh>
+<v t="leo.20200109161831.1"><vh>藉由範例操作solvespace</vh></v>
+</v>
+<v t="leo.20200109163627.1"><vh>w9</vh>
+<v t="leo.20200109163629.1"><vh>期中</vh></v>
+</v>
+<v t="leo.20200109163803.1"><vh>w10</vh>
+<v t="leo.20200109163805.1"><vh>已在同組協同倉儲中fork</vh></v>
+</v>
+<v t="leo.20200106000331.1"><vh>w12</vh>
+<v t="leo.20200106000333.1"><vh> nx12介紹</vh></v>
+</v>
+<v t="leo.20200109164037.1"><vh>w12</vh>
+<v t="leo.20200109164038.1"><vh>nx12心得</vh></v>
+</v>
+<v t="leo.20200109164203.1"><vh>w13</vh>
+<v t="leo.20200109164205.1"><vh>利用reveal來介紹課程任務執行結果</vh></v>
+</v>
+<v t="leo.20200109170851.1"><vh>w16</vh>
+<v t="leo.20200109170853.1"><vh>利用solvespace繪製越野車，並轉入vrep與weboot中</vh></v>
 </v>
 <v t="leo.20200106001417.1"><vh>繪製越野車</vh>
 <v t="leo.20200106001420.1"><vh>繪製越野車</vh></v>
-</v>
-<v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh>
-<v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
-</v>
-<v t="leo.20180902120523.18"><vh>導入影片</vh>
-<v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
-</v>
 </v>
 </v>
 </v>
@@ -85,65 +110,6 @@ Created by [s40523113](https://s40523113.github.io/cad2019/content/index.html)
 * 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
 </t>
-<t tx="leo.20180902120523.13">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20180902120523.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180902120523.17">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="leo.20180902120523.18">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180902120523.19">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
 <t tx="leo.20180902120523.2"></t>
 <t tx="leo.20180902120523.3">@language xml
 @tabwidth -4
@@ -158,7 +124,7 @@ make.start()
 <t tx="leo.20180902120523.5">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
-CMSimfly 網際內容管理
+電腦輔助機械設計製圖
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -333,7 +299,6 @@ vertical: body pane on the botton</t>
 
 * Nx12繪圖應用
 
-
 * 零組件轉入 V-rep 與 Webots 
 </t>
 <t tx="leo.20200105235436.1">&lt;section data-markdown&gt;
@@ -345,7 +310,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200105235440.1">## solvespace 編譯
+<t tx="leo.20200105235440.1">### 期末報告:w3 solvespace 編譯
 
 &lt;iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/nIbbkxiJwS0" width="560"&gt;&lt;/iframe&gt;
 
@@ -359,12 +324,10 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200106000333.1">## nx12心得
+<t tx="leo.20200106000333.1">### 期末報告:w12 nx12介紹
 
 &lt;iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/PWkKuOJ0tCI" width="560"&gt;&lt;/iframe&gt;
 
-
-* 心得:藉由這次的範例來操作nx12，雖然nx12的工作介面以及功能用法，與inventor、soildworks等常用的繪圖軟體大有不同，但隨著時代演變程式種類越來越多，身為學生的我們應好好把握這次的 機會來學習各個軟體
 
 </t>
 <t tx="leo.20200106001417.1">&lt;section data-markdown&gt;
@@ -381,6 +344,156 @@ vertical: body pane on the botton</t>
 * 利用solvespacec繪製越野車
 
 
+</t>
+<t tx="leo.20200109161440.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109161441.1">### 期末報告:w5 介紹solvespace基本功能
+
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/MksM1VQJhYY"&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200109161542.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109161544.1">### 期末報告:w6 利用solvespace來繪製簡單雙輪車
+
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/sYRAjvqACno"&gt;
+
+</t>
+<t tx="leo.20200109161721.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109161723.1">### 期末報告:w6 藉由V-rep 來控制模擬雙輪車
+
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/WoqCDdybDA0"&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200109161830.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109161831.1">### 期末報告:w7 藉由範例操作solvespace
+
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/Z5Fv51x-zAI"&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200109162816.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109162817.1">### 期末報告:w7 整組統一網站架構
+
+&lt;img alt="" height="80" src="https://github.com/s40523113/cad2019/blob/master/images/chrome_3JIXCPVQDq.png?raw=true" width="713"&gt;
+&lt;img alt="" height="410" src="https://github.com/s40523113/cad2019/blob/master/images/chrome_m3QKP27DpY.png?raw=true" width="713"&gt;</t>
+<t tx="leo.20200109162819.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109162824.1">### 期末報告:w7 solvespace已編譯證明
+
+&lt;img alt="" height="410" src="https://github.com/s40523113/cad2019/blob/master/images/SciTE_ptvpDakb9a.png?raw=true" width="713"&gt;
+
+</t>
+<t tx="leo.20200109163627.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109163629.1">### 期末報告:w9 期中報告
+
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/E02IbI4DUNU"&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200109163803.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109163805.1">### 期末報告:w10 在同組協同倉儲中fork
+
+&lt;img alt="" height="410" src="https://github.com/s40523113/cad2019/blob/master/images/chrome_cJop5x6QZT.png?raw=true" width="713"&gt;
+
+</t>
+<t tx="leo.20200109164037.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109164038.1">### 期末報告:w12 nx12心得
+
+* 心得:藉由這次的範例來操作nx12，雖然nx12的工作介面以及功能用法，與inventor、soildworks等常用的繪圖軟體大有不同，但隨著時代演變程式種類越來越多，身為學生的我們應好好把握這次的 機會來學習各個軟體
+
+</t>
+<t tx="leo.20200109164203.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109164205.1">### 期末報告:w13 利用reveal來介紹課程任務執行結果
+
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/Yngrx-hPtf8"&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200109170851.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109170853.1">### 期末報告:w16 利用solvespace繪製越野車，並轉入vrep與weboot中
+
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/Yngrx-hPtf8"&gt;&lt;/iframe&gt;
 </t>
 </tnodes>
 </leo_file>
