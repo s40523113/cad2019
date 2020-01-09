@@ -72,6 +72,12 @@
 <v t="leo.20200109212601.1"><vh>w17</vh>
 <v t="leo.20200109212605.1"><vh>newHeadline</vh></v>
 </v>
+<v t="leo.20200109220649.1"><vh>newHeadline</vh>
+<v t="leo.20200109220652.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20200109220726.1"><vh>newHeadline</vh>
+<v t="leo.20200109220729.1"><vh>newHeadline</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -506,6 +512,30 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200109212605.1"></t>
+<t tx="leo.20200109212605.1">### 期末報告:w17 查驗考試
+
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/YT5t1W7KZiM"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200109220649.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109220652.1">### 心得
+藉由這學期的課程，雖然有很多東西要自己學習，當然在學習過程中，還有些地方不太清楚或是熟練度不夠等等，但是我認為只要肯投入大量的時間，想必可以收穫滿滿。在這堂課中，學到了製作影片、ssh連線、solvespace編譯及操作、nx12之操作、vrep導入、管理自己的網站，這些對我們以後都會有幫助的。</t>
+<t tx="leo.20200109220726.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109220729.1">### 自評成績:60分
+理由:對於為何期末自評成績給60分的原因是，每周都會定期更新上課進度在網頁上，並至少commit一次在github上，同時也懂得如何利用ssh連線並提交，另外在每周進度中都會加帶有字幕之影片，個人網誌以及剪報也有在製作中，還有solvespaceu以及nx12也懂得去應用，都有呈現在網頁中。</t>
 </tnodes>
 </leo_file>
